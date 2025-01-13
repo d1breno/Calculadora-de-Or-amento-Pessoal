@@ -15,7 +15,7 @@ body::-webkit-scrollbar {
   header {
     background-color: #4caf50;
     color: white;
-    padding: 10px 0;
+    padding: 5px 0;
     text-align: center;
   }
   
@@ -83,7 +83,7 @@ body::-webkit-scrollbar {
   
   footer {
     text-align: center;
-    padding: 10px;
+    padding: 5px;
     background-color: #4caf50;
     color: white;
   }

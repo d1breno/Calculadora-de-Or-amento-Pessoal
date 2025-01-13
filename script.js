@@ -1,5 +1,3 @@
-// script.js
-
 const transactionForm = document.getElementById("transaction-form");
 const transactionList = document.getElementById("transactions");
 const incomeEl = document.getElementById("income");
